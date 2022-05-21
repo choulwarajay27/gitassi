@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitAssi.iml" filepath="$PROJECT_DIR$/GitAssi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitAssi.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GitAssi.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitAssi.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GitAssi.test.iml" />
+    </modules>
+  </component>
+</project>
