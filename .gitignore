@@ -19,3 +19,5 @@ gradle/7.4/**
 .idea/modules/GitAssi.main.iml
 .idea/modules/GitAssi.test.iml
 GitAssi.iml
+cd
+git
